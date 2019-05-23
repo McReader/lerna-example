@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "create-react-app": "3.0.1",
+    "lerna": "3.14.1"
+  }
+}
